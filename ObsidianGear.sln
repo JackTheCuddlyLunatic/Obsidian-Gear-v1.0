@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObsidianGear", "ObsidianGear.csproj", "{E93B5022-813D-4429-8AE2-66A8DE681AE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E93B5022-813D-4429-8AE2-66A8DE681AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E93B5022-813D-4429-8AE2-66A8DE681AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E93B5022-813D-4429-8AE2-66A8DE681AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E93B5022-813D-4429-8AE2-66A8DE681AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33CDFC76-D617-4BC5-B39E-8DF9FE2B782D}
+	EndGlobalSection
+EndGlobal

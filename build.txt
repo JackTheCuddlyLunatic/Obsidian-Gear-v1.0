@@ -1,0 +1,3 @@
+displayName = Obsidian Gear
+author = JackTheCuddlyLunatic
+version = 1.0

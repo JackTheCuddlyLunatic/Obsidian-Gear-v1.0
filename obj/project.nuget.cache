@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Teh0uhbrmZiBCLDHDYaTNunroMfJ2Oo2yIEFYHG+i438WdwOnqeBeYFd+5f/8bwmCOAarJl9TWIS83K9T4xIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jack\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\ObsidianGear\\ObsidianGear.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jack\\.nuget\\packages\\tmodloader.codeassist\\0.1.2\\tmodloader.codeassist.0.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
